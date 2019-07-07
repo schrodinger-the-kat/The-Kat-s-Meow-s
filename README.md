@@ -1,1 +1,2 @@
 # The-Kat-s-Meow-s
+I am just starting with Github. I got into this because I decided to learn R and the process of doing so directed me to Github. I really don't have a "project" at the moment but I am creating this repository because I joined Github and starting a repository was mentioned. Perhaps I can use this to store some notes, some scripts, or some statistics formulas. As I learn more I hope to find something useful to put here. 
